@@ -1,0 +1,18 @@
+[
+    {
+        "title": "hemo",
+        "author": "humayon ahmad",
+        "isbn": "2",
+        "genre": "romantic",
+        "price": 45.0,
+        "quantity": 6
+    },
+    {
+        "title": "robinson croso",
+        "author": "daniel",
+        "isbn": "1",
+        "genre": "adventure",
+        "price": 457.0,
+        "quantity": 6
+    }
+]
